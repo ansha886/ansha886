@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Bruce
+- 👀 I’m interested in product design, programming, sports, music
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on ...
+- 📫 My Email: licheng0601@gmail.com
